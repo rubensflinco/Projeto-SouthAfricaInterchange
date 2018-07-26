@@ -5,6 +5,10 @@ O projeto South Africa Inter change foi um projeto desenvolvido para um curso na
 <br>
 <a href="http://projeto.planetsweb.com.br/SouthAfricaInterchange/" target="_blank">Ver Demo</a><br>
 <a href="http://projeto.planetsweb.com.br/SouthAfricaInterchange/" target="_blank">http://projeto.planetsweb.com.br/SouthAfricaInterchange/</a>
+# Leia a Matéria
+<a href="https://projeto.planetsweb.com.br/detalhes/desafios-planetsweb-empresa-sai">Ler matéria</a>
+<br>ou<br>
+<a href="https://projeto.planetsweb.com.br/detalhes/desafios-planetsweb-empresa-sai">https://projeto.planetsweb.com.br/detalhes/desafios-planetsweb-empresa-sai</a>
 <hr>
 <b>Preview:</b>
 <br>
