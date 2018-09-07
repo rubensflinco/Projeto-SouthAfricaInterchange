@@ -17,3 +17,6 @@ O projeto South Africa Inter change foi um projeto desenvolvido para um curso na
 <b>Preview:</b>
 <br>
 <img src="https://i.imgur.com/QftMjBW.jpg">
+<img src="https://i.imgur.com/R7DzfNS.png">
+<img src="https://i.imgur.com/13o0aac.jpg">
+<img src="https://i.imgur.com/RaObGOd.png">
